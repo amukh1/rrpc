@@ -1,6 +1,6 @@
 {
-  "name": "ROBLOX-RPC",
-  "id": "ROBLOX-RPC",
+  "name": "rrpc",
+  "id": "rrpc",
   "description": "ROBLOX TO DISCORD RICH PRESENCE (current)",
   "version": "1.3.0",
   "src": "src"
