@@ -1,0 +1,22 @@
+{
+  "name": "rrpc",
+  "version": "1.6.0",
+  "description": "Roblox to discord rich presence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ROBLOX",
+    "DISCORD",
+    "RICH",
+    "PRESENCE",
+    "ROBLOX",
+    "STUDIO",
+    "LUA",
+    "LUAU",
+    "OOP"
+  ],
+  "author": "amukh1",
+  "license": "ISC"
+}
